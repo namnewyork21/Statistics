@@ -1,2 +1,2 @@
 # Statistics
-This file contains a series of notebooks I have created to explore statistics. 
+This folder contains a series of notebooks I have created to explore statistics. 
